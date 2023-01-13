@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @garpunkal
-- 👀 I’m interested in c# mvc development, vue development and jamstack.
+- 👀 I’m interested in c# mvc development, vue development, tailwind and jamstack builds.
 - 🌱 I’m currently learning vue
-- 💞️ I’m looking to collaborate on open-sourced projecs to help the community. 
-- 📫 How to reach me https://garpunkal.dev
+- 💞️ I’m looking to collaborate on open-sourced projecs to help the community, especially with Umbraco.
+- 📫 Reach me @ https://garpunkal.dev
 
 <!---
 garpunkal/garpunkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
