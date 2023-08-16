@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @garpunkal
-- 👀 I’m interested in c# mvc development, vue development, tailwind and jamstack builds.
-- 🌱 I’m currently learning vue, storybook, lit and webcomponents
-- 💞️ I’m looking to collaborate on open-sourced projecs to help the community, especially with Umbraco.
 - 📫 Reach me @ https://garpunkal.dev
 
 <!---
