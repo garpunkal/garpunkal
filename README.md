@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @garpunkal
-- 📫 Reach me @ https://garpunkal.dev
-- <a rel="me" href="https://mastodon.me.uk/@garpunkal">Mastodon</a>
+- 📫 Reach me @ https://garpunkal.dev or <a rel="me" href="https://mastodon.me.uk/@garpunkal">Mastodon</a>
 
 <!---
 garpunkal/garpunkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
